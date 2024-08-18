@@ -50,6 +50,25 @@ Awesome-Edge-LLM: A curated list of [📙Awesome Edge LLM Papers with Codes](#pa
 
 
 
+## ©️License  
+
+GNU General Public License v3.0  
+
+## 🎉Contribute  
+
+Welcome to star & submit a PR to this repo! 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
